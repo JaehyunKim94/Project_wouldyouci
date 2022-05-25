@@ -39,7 +39,7 @@ pandas==1.0.3
 pep8==1.7.1
 pilkit==2.0
 Pillow==7.1.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyparsing==2.4.7
 python-crontab==2.5.1
