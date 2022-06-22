@@ -33,7 +33,7 @@ joblib==0.15.1
 kombu==4.6.9
 MarkupSafe==1.1.1
 mysqlclient==1.4.6
-numpy==1.17.5
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 pep8==1.7.1
