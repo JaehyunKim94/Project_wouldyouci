@@ -14,7 +14,7 @@
     "dayjs": "^1.8.28",
     "jsonwebtoken": "^8.5.1",
     "material-design-icons-iconfont": "^5.0.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "vue": "^2.6.11",
     "vue-infinite-scroll": "^2.0.2",
     "vue-router": "^3.1.6",
